@@ -1,0 +1,6 @@
+line 1 , 100 ,20,ali
+line2     ,50 :       [ ]  ,
+line 3 ,333, gisele
+line          4
+l 
+line6islongcomparingtoothers
